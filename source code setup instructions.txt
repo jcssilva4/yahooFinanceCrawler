@@ -1,0 +1,14 @@
+For windows:
+0- download numpy module : python -m pip install --user numpy  
+1- download requests module: python -m pip install requests
+2- download BeautifulSoup4: pip install beatifulsoup4
+3- Go to the webpage you want to read. Inspect any element and then press: 'Ctrl + Shift + C', so that you can inspect any element by placing the cursor over it
+4- Program your script selecting the core HTML elements
+tip: any doubts on how to read the page: watch 'Intro to Web Scraping with Python and BeautifulSoup' from data science dojo channel
+5- install selenium, so that you can scoll the page down to see all the elements in a table: pip install selenium
+6- after installing selenium install google chrome webdriver, unzip it inside the chorme's executable directory
+7- install hmlt5 parser: pip install html5
+
+cmd prompt observations:
+change size of cmd prompt window mode con: cols=160 lines=78
+GREEFO PC -> mode con: cols=238 lines=84 (maximized)

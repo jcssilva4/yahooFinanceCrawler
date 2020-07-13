@@ -1,0 +1,7 @@
+search for new benchmark weights
+use bmfbovespa search engine
+http://www.bmfbovespa.com.br/pt_br/busca/?query=Carteira+valer%C3%A1+de+02%2F01%2F17+a+28%2F04%2F17
+use expressions like: 'carteira janeiro abril 201X' 'carteira maio agosto 201X' 'carteira setembro dezembro 201X' 
+
+1- switch "," by "."
+2- switch "%" by ""
